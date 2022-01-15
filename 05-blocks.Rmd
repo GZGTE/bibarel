@@ -1,6 +1,6 @@
 # Blocks
 
-## Equations
+## Equations(요것도 모르겠다)
 
 Here is an equation.
 
